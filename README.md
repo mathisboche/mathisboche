@@ -3,7 +3,7 @@
 Développeur web | Lycéen en terminale générale (maths/physique-chimie)
 
 - Technologies : Next.js, React, TailwindCSS, JavaScript, Python, HTML, CSS
-- Responsable web & réseaux sociaux — ChessMates International
+- Responsable web & réseaux sociaux — [ChessMates International](https://chessmatesinternational.com/)
 - Créateur du site [mathisboche.com](https://www.mathisboche.com/)
 - Contact : mathis@boche.co
 
