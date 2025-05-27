@@ -1,21 +1,15 @@
-# 👋 Mathis Boche
+# Mathis Boche
 
-Bienvenue sur mon GitHub !  
-Je suis lycéen en terminale générale (maths/physique-chimie), passionné par la programmation, les échecs et les projets web.
+Développeur web | Lycéen en terminale générale (maths/physique-chimie)
 
-- 🔗 [mathisboche.com](https://www.mathisboche.com/) — mon site personnel  
-- ♟️ Responsable web & réseaux sociaux pour [ChessMates International](https://chessmatesinternational.com/)  
-- 🧑‍💻 Technologies : Next.js, React, TailwindCSS, JS, Python, HTML/CSS  
-- 📧 Contact pro : mathis@boche.co
+- Technologies : Next.js, React, TailwindCSS, JavaScript, Python, HTML, CSS
+- Responsable web & réseaux sociaux — ChessMates International
+- Créateur du site [mathisboche.com](https://www.mathisboche.com/)
+- Contact : mathis@boche.co
 
-Actuellement :  
-- Développement de sites web (perso/projets asso)
-- Communication digitale & gestion de contenu
-- Animation d’ateliers et événements autour des échecs
+Projets :  
+• Sites web associatifs et personnels  
+• Communication digitale  
+• Animation d’ateliers échecs
 
-> J’aime concevoir des interfaces propres, soignées et impactantes.  
-> Je travaille autant sur le fond que sur la forme !
-
----
-
-*Curieux(se) ? Explore mes projets ou contacte-moi directement !*
+Ce dépôt regroupe mes principaux projets personnels, associatifs ou scolaires.
