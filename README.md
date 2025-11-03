@@ -1,15 +1,11 @@
-# Mathis Boche
+Étudiant en PCSI (Lycée Chaptal, Paris)
 
-Développeur web | Lycéen en terminale générale (maths/physique-chimie)
+Je m’occupe du site web et des réseaux sociaux de ChessMates International
+et je contribue au CDJE 92 (communication & outils numériques).
 
-- Technologies : Next.js, React, TailwindCSS, JavaScript, Python, HTML, CSS
-- Responsable web & réseaux sociaux — [ChessMates International](https://chessmatesinternational.com/)
-- Créateur du site [mathisboche.com](https://www.mathisboche.com/)
-- Contact : m@boche.co
+Centres d’intérêt : échecs, communication, projets associatifs.
 
-Projets :  
-• Sites web associatifs et personnels  
-• Communication digitale  
-• Animation d’ateliers échecs
-
-Ce dépôt regroupe mes principaux projets personnels, associatifs ou scolaires.
+Projets récents
+• Communication & contenus pour les tournois ChessMates
+• Sites et pages événement pour associations
+• Ateliers d’initiation aux échecs
