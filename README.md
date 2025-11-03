@@ -1,4 +1,4 @@
-Étudiant en PCSI (Lycée Chaptal, Paris)
+#Étudiant en PCSI (Lycée Chaptal, Paris)
 
 Je m’occupe du site web et des réseaux sociaux de ChessMates International
 et je contribue au CDJE 92 (communication & outils numériques).
